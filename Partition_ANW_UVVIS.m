@@ -10,8 +10,7 @@ function [Lambda_out, adgopt, aphopt, N_feasible] = Partition_ANW_UVVIS(Lambda_a
 %Stramski, D., and R. A. Reynolds. 2026. Model for partitioning the light
 %	absorption coefficient of seawater within the near-UV and visible 
 %	spectral region into phytoplankton and non-phytoplankton components.
-%	Applied Optics, in press.
-%	http://dx.doi.org/XX
+%	Applied Optics, 65(30), 10467-10482. https://doi.org/10.1364/AO.610292
 %	Abbreviated as [SR26] in the comments used to document the code
 %
 %Inputs:
